@@ -10,7 +10,6 @@ contract MyToken {
 //mapping variable here
     mapping(address => uint256) public balances;
 
-   
  }
 //mint function
     function mint(address _to, uint256 _value) public {
