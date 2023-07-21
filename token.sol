@@ -3,8 +3,8 @@
 pragma solidity ^0.8.0;
 
 contract MyToken {
-    string public name= "Mackbook";
-    string public symbol= "MAC";
+    string public name= "Batman";
+    string public symbol= "BAT";
     uint256 public totalSupply= 0;
 
 //mapping variable here
